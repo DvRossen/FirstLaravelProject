@@ -8,6 +8,6 @@
     <title>Homepage :D</title>
 </head>
 <body>
-    <h2>Home</h2>
+    <h2>Hello world</h2>
 </body>
 </html>
