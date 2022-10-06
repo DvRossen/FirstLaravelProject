@@ -13,6 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('homeController::class, ‘show’');
-});
+Route::get('/', [\App\Http\Controllers\HomeController::class, 'show']);
